@@ -1,0 +1,24 @@
+[
+ {
+    "email": "xxx@gmail.com",
+    "nodes": [
+      {
+        "publicKey": "xxx",
+        "token": "xxx"
+      }
+    ]
+  },
+  {
+    "email": "xxx@gmail.com",
+    "nodes": [
+      {
+        "publicKey": "xxx",
+        "token": "xxx"
+      },
+      {
+        "publicKey": "xxx",
+        "token": "xxx"
+      }
+    ]
+  }
+]
